@@ -1,15 +1,29 @@
 :root {
   --forest: #2f3a22;
   --forest-mid: #3d4a2c;
-  --green: #6b7f3a;
-  --green-dim: #55662e;
+  /* Text colors on dark forest slides (WCAG AAA against forest-mid). */
+  --green: #cee7a4;
+  --green-dim: #91ad6c;
   --cream: #f7f1e5;
-  --muted: #7a6f5d;
+  --muted: #dce2d2;
   --card: #efe6d6;
-  --accent2: #8a5a2b;
+  --accent2: #f7dba9;
   --heading-font: Georgia, Georgia, serif;
   --body-font: system-ui, system-ui, sans-serif;
   --radius: 10px;
   --slide-pad-x: 32px;
   --slide-pad-y: 48px;
 }
+
+/* Light panels need dark ink: the slide colors are not legible on cream. */
+.card,
+.stat,
+.note-box,
+.figure {
+  --green: #364b22;
+  --muted: #49483a;
+  --accent2: #6a3b1a;
+}
+
+/* Override the generated deck's low-opacity phase numbering. */
+.slide .phase-num { opacity: 0.75; }
