@@ -10,7 +10,7 @@ meta:
 slides:
   - tag: "Five-Year Brand Vision"
     layout: "hero"
-    title: "Grow at the Farm's<br>__ACCENT__Own Pace.__"
+    title: "Grow at the Farm's<br>__ACCENT__Own Pace."
     subtitle: "This is a staged direction, not a five-year promise. Make Agape easier to find and order from, test repeat relationships, and expand only when farm capacity, demand, stewardship, and contribution margin justify it."
     stats:
       - n: "5"
@@ -98,9 +98,9 @@ slides:
     footer: "{{contact}}"
   - tag: "The Long View"
     layout: "close"
-    title: "Earn the Next<br>__ACCENT__Season.__"
+    title: "Earn the Next<br>__ACCENT__Season."
     subtitle: "Protect the farm's stewardship and relationships while making each expansion decision accountable to demand and capacity."
     list:
-      - "Year one: verify, implement, and measure before scaling."
+      - "Year one — verify, implement, and measure before scaling."
       - "Contact Payton Byrd at 615-574-8101 to review the roadmap."
     footer: "{{contact}}"
