@@ -1,6 +1,8 @@
 # Agape Farmstead — Proposals for Remy Powell
 
-These proposal decks are prepared **for Remy Powell, owner of Agape Farmstead LLC**, by **Payton Byrd**. They are recommendations for the owner's consideration, not commitments or adopted plans.
+Live site: [sharpninja.github.io/agape-farms](https://sharpninja.github.io/agape-farms/)
+
+Three proposals for Remy Powell, owner of Agape Farmstead, from Payton Byrd: a search pilot, Thanksgiving delivery inside 200 miles, and a five-year sequence.
 
 Edit `index.yaml`, `theme.css`, and `decks/` to change the content. The site is generated with [ProposalDecks](https://github.com/sharpninja/ProposalDecks).
 
