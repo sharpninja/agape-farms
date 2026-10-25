@@ -2,16 +2,16 @@
 meta:
   slug: "brand"
   title: "The Online Plan — Agape Farmstead"
-  description: "Remy and Payton write the long-term online plan together. This deck starts that work. The plan does not exist yet."
+  description: "After the search work and the Thanksgiving routes, Remy and Payton write the long-term online plan."
   og_title: "The Online Plan"
-  og_description: "A proposal to sit down and write the long-term online plan. The first product is the decisions, not a campaign."
-  eyebrow: "Online"
-  blurb: "Remy and Payton write the long-term online plan together. The plan does not exist yet."
+  og_description: "The long-term plan, written together once the work and the routes are real."
+  eyebrow: "The Long Term"
+  blurb: "Built on the search work and on Payton being there for the routes. Remy and Payton write the long-term plan."
 slides:
   - tag: "The Offer"
     layout: "hero"
     title: "Write the<br>__ACCENT__Plan."
-    subtitle: "Remy and Payton write the long-term online plan. This deck starts that work. It is not the plan."
+    subtitle: "This sits on the other two decks. The search work shows what Payton does. The routes show he is there to do it. The long-term plan is what we write after that. This deck is not the plan."
     stats:
       - n: "2"
         l: "People"
@@ -50,7 +50,7 @@ slides:
     subtitle: "Make the plan. The first product is the decisions, not a campaign."
     ask:
       title: "Write It Together"
-      text: "One sitting. The decisions on the table. Nothing published from this deck until those are made."
+      text: "One sitting, after the pages and the routes. The decisions on the table. Nothing published from this deck until those are made."
       button: "Make the Plan"
       button_href: "mailto:plbyrd@gmail.com?subject=Agape%20Farmstead%20online%20plan"
     footer: "{{contact}}"
