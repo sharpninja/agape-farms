@@ -34,7 +34,6 @@ slides:
         text: "The biblical foundation is why the work is consistent. In a market full of wellness claims, that is what people remember."
   - tag: "Year One"
     layout: "phase"
-    timeline: "Months 1–12"
     title: "Findable"
     list:
       - "The search pilot, with a baseline before anything changes."
@@ -45,7 +44,6 @@ slides:
     subtitle: "Year one is findable, remembered, and delivered."
   - tag: "Year Two"
     layout: "phase"
-    timeline: "Months 13–24"
     title: "Repeat"
     list:
       - "Eggs, seasonal boxes, and the holidays, more than once a year."
@@ -56,7 +54,6 @@ slides:
     subtitle: "Year two turns a holiday buyer into someone who comes back."
   - tag: "Year Three"
     layout: "phase"
-    timeline: "Months 25–36"
     title: "Capacity"
     list:
       - "A second processor only if the current date is the bottleneck."
@@ -67,7 +64,6 @@ slides:
     subtitle: "Year three is when repeat orders carry the year."
   - tag: "Years Four and Five"
     layout: "phase"
-    timeline: "Months 37–60"
     title: "Earned, or Not"
     list:
       - "A wider map only if repeat orders and the processor can take more."

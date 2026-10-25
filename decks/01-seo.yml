@@ -39,7 +39,6 @@ slides:
         text: "Adams, the Clarksville market, and pickup. The Google profile should say what the site says."
   - phase: "01"
     layout: "phase"
-    timeline: "Weeks 1–2"
     title: "On the Page"
     list:
       - "Search Console baseline first: queries, clicks, indexed URLs."
@@ -49,7 +48,6 @@ slides:
     note: "Success is the agreed pages live and measured. Not a promised ranking."
   - phase: "02"
     layout: "phase"
-    timeline: "Weeks 2–4"
     title: "The Local Listing"
     list:
       - "The Google profile that belongs to the farm: name, category, hours, pickup, site."
@@ -57,7 +55,6 @@ slides:
       - "Ask for the review after a real sale. Don't script it."
   - phase: "03"
     layout: "phase"
-    timeline: "Months 2–3"
     title: "The Story"
     list:
       - "A short piece on the people and the grazing, in the farm's photos."

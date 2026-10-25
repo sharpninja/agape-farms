@@ -57,7 +57,6 @@ slides:
     note: "Hopkinsville, Paducah, and Bowling Green still need a clear answer at the Kentucky line. The six corridors stay."
   - phase: "01"
     layout: "phase"
-    timeline: "October 24–31"
     title: "Set the Routes"
     list:
       - "Bird count from the processor. That count is the only cap."
@@ -66,7 +65,6 @@ slides:
     note: "Orders close November 10. Last drop is November 24."
   - phase: "02"
     layout: "phase"
-    timeline: "November 1–10"
     title: "Fill the Routes"
     list:
       - "Take orders inside the radius. Stop at the cap."
@@ -76,7 +74,6 @@ slides:
     subtitle: "No batch on that corridor that day, no delivery."
   - phase: "03"
     layout: "phase"
-    timeline: "November 11–24"
     title: "On the Road"
     list:
       - "Each route day is one corridor out of Nashville."
