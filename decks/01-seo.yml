@@ -10,7 +10,7 @@ meta:
 slides:
   - tag: "SEO & Content Review"
     layout: "hero"
-    title: "Make the Farm<br>__ACCENT__Easier to Find.__"
+    title: "Make the Farm<br>__ACCENT__Easier to Find."
     subtitle: "Agape has real farm products, an identifiable team, local market participation, and an independently documented managed-grazing project. The first step is to verify the technical baseline and make product, place, and ordering information clearer."
     stats:
       - n: "Observed"
@@ -43,7 +43,7 @@ slides:
     timeline: "Weeks 1–2 · Verify & Implement"
     title: "Build a Measurable Foundation"
     list:
-      - "Capture Search Console and analytics baselines: queries, impressions, clicks, indexed URLs, and priority-page visits."
+      - "Capture Search Console and analytics baselines — queries, impressions, clicks, indexed URLs, and priority-page visits."
       - "Inventory real titles, meta descriptions, headings, canonicals, robots/sitemap behavior, images, and structured data; retain evidence for each finding."
       - "Propose page-specific titles and descriptions for the home, products, team, and turkey reservation pages; implement only after farm approval."
       - "Clarify per-pound prices, deposits, final-weight charges, pickup and delivery arrangements, and ordering FAQs without changing approved commercial terms."
@@ -70,7 +70,7 @@ slides:
       - "Test product-and-location search queries using Search Console, rather than declaring any keyword 'winnable' without data."
   - tag: "The Differentiation"
     layout: "cards"
-    title: "A Story Customers<br>Can __ACCENT__Verify.__"
+    title: "A Story Customers<br>Can __ACCENT__Verify."
     subtitle: "Show practices and relationships the farm can document. Avoid claims that no competitor shares the same values or that a certification has been confirmed."
     cards:
       - title: "Local Buying Intent"
@@ -89,7 +89,7 @@ slides:
     footer: "{{contact}}"
   - tag: "Next Step"
     layout: "close"
-    title: "Better Search,<br>__ACCENT2__Clearer Orders.__"
+    title: "Better Search,<br>__ACCENT2__Clearer Orders."
     subtitle: "Make documented improvements now; resolve remaining technical questions with page-source access and verified business information."
     list:
       - "Track changes against a saved baseline at 30, 60, and 90 days."
