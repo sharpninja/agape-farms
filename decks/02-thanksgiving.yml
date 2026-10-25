@@ -10,7 +10,7 @@ meta:
 slides:
   - tag: "Thanksgiving 2026"
     layout: "hero"
-    title: "Fresh Turkey,<br>__ACCENT__A Plan to Validate.__"
+    title: "Fresh Turkey,<br>__ACCENT__A Plan to Validate."
     subtitle: "The farm advertises a $20 whole-turkey deposit and fresh pickup or delivery on Tuesday, November 24. A 200-mile Nashville-centered concept and six candidate corridors require separate approval; neither is an established service commitment."
     stats:
       - n: "200"
@@ -25,7 +25,7 @@ slides:
     subtitle: "Confirm product availability and processing release before publishing any new customer delivery promises."
     list:
       - "Verify bird count, expected weights, existing $20 deposit terms, processor release time, and inspection or exemption status."
-      - "Define a written service scope: route fees, accepted addresses, insurance, refunds, delays, liability, and customer communications."
+      - "Define a written service scope — route fees, accepted addresses, insurance, refunds, delays, liability, and customer communications."
       - "Plan from the actual pickup point with realistic drive time, refrigeration capacity, and customer handoff windows—not radius alone."
       - "Confirm each state and sales channel is legally eligible before accepting orders for Kentucky or Alabama destinations."
       - "Dispatch only when the farm has approved the route, cutoff, product allocation, and responsible operator."
@@ -109,7 +109,7 @@ slides:
     footer: "{{contact}}"
   - tag: "The Table"
     layout: "close"
-    title: "From Farm<br>to __ACCENT2__Table.__"
+    title: "From Farm<br>to __ACCENT2__Table."
     subtitle: "A delivery plan the farm can keep: product release, legal eligibility, safe transport, and customer commitments must agree."
     list:
       - "Six corridors are candidate plans, not accepted orders or scheduled drops."
